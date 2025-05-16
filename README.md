@@ -9,9 +9,15 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-Soy estudiante de Ingenieria de sistemas enfocado en soluciones de backend con conocimientos en microservicios. 
-experiencia en proyectos reales conectados a APIs externas, con conocimientos complementarios en frontend, CI/CD y 
+<br>
+<br>
+<br>
+
+<p>
+Soy estudiante de Ingenieria de sistemas enfocado en soluciones de backend con conocimientos en microservicios. <br>
+experiencia en proyectos reales conectados a APIs externas, con conocimientos complementarios en frontend, CI/CD y <br>
 fundamentos de DevOps. Actualmente aprendiendo ciberseguridad y ciencia de datos.
+</p>
 
 <!--- stats & Trophy (start) -->
 <p align="center">
