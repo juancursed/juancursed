@@ -13,9 +13,9 @@
 <br>
 <br>
 
-<p>
-Soy estudiante de Ingenieria de sistemas enfocado en soluciones de backend con conocimientos en microservicios. <br>
-experiencia en proyectos reales conectados a APIs externas, con conocimientos complementarios en frontend, CI/CD y <br>
+<p style="font-size: 40px;">
+Soy estudiante de Ingenieria de sistemas enfocado en soluciones de backend con conocimientos en microservicios. 
+experiencia en proyectos reales conectados a APIs externas, con conocimientos complementarios en frontend, CI/CD y 
 fundamentos de DevOps. Actualmente aprendiendo ciberseguridad y ciencia de datos.
 </p>
 
